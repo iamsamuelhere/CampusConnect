@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "136390669479",
+    "project_id": "campusconnect-bb3c5",
+    "storage_bucket": "campusconnect-bb3c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136390669479:android:08f9945b8dc4fa82389782",
+        "android_client_info": {
+          "package_name": "com.example.CampusConnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136390669479-p8djm57a1pgvq7mg5koglkdnj59e5505.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.CampusConnect",
+            "certificate_hash": "e025f7cb57ea01d45681493da1f2b439738539fe"
+          }
+        },
+        {
+          "client_id": "136390669479-57og1cir9npbt9hjgovtutp7jusr6flq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApxJI6UBsREwozjRGesds02ZHjujNismU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136390669479-57og1cir9npbt9hjgovtutp7jusr6flq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
